@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Education\\Programaing\\Visual Studio .NET\\ASP.NET\\CORE\\pradip.ASPCORE.com\\pradip.ASPCOREMVC\\pradip.ASPCOREMVC.csproj",
+      "projectUniqueName": "G:\\Education\\Programaing\\Visual Studio .NET\\ASP.NET\\BigBucket\\pradip.ASPCORE.com\\pradip.ASPCOREMVC\\pradip.ASPCOREMVC.csproj",
       "projectName": "pradip.ASPCOREMVC",
-      "projectPath": "G:\\Education\\Programaing\\Visual Studio .NET\\ASP.NET\\CORE\\pradip.ASPCORE.com\\pradip.ASPCOREMVC\\pradip.ASPCOREMVC.csproj",
+      "projectPath": "G:\\Education\\Programaing\\Visual Studio .NET\\ASP.NET\\BigBucket\\pradip.ASPCORE.com\\pradip.ASPCOREMVC\\pradip.ASPCOREMVC.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "G:\\Education\\Programaing\\Visual Studio .NET\\ASP.NET\\CORE\\pradip.ASPCORE.com\\pradip.ASPCOREMVC\\obj\\",
+      "outputPath": "G:\\Education\\Programaing\\Visual Studio .NET\\ASP.NET\\BigBucket\\pradip.ASPCORE.com\\pradip.ASPCOREMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
